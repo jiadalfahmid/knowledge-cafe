@@ -7,7 +7,10 @@ function App() {
   return (
     <>
       <Header></Header>
-      <Blogs></Blogs>
+      <div>
+        <Blogs></Blogs>
+        
+      </div>
     </>
   )
 }
